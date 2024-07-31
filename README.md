@@ -20,8 +20,8 @@ with
   <img src="YOUR LINK HERE" alt="AGENT PROFILE PICTURE" width="50" height="50">
 ```
   or
-  "<img src="YOUR LINK HERE" alt="Login Image">"
   ```
+  "<img src="YOUR LINK HERE" alt="Login Image">"
 ```
   this will make them properly display in browsers and not end up looking like this:
 ![image](https://github.com/user-attachments/assets/0639f1b3-7033-4afc-8181-db1753995716)
