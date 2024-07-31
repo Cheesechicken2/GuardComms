@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!-- krimbopple© 2024 -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GUARDCOMMS 1.3 - Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #1e1e1e;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .header h2 {
+            margin: 5px 0 0 0;
+            font-weight: normal;
+            font-size: 16px;
+            color: #a0a0a0;
+        }
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            max-width: 800px;
+            margin: 40px auto;
+            background-color: #1e1e1e;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .login-box {
+            display: flex;
+            align-items: center;
+            width: 100%;
+        }
+        .login-form {
+            flex: 1;
+            padding: 20px;
+        }
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #333;
+            border-radius: 4px;
+            background-color: #2a2a2a;
+            color: #e0e0e0;
+        }
+        .login-form button {
+            width: 100%;
+            background-color: #007bff;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        .login-form button:hover {
+            background-color: #0056b3;
+        }
+        .login-image {
+            flex: 1;
+            text-align: center;
+        }
+        .login-image img {
+            max-width: 100%;
+            border-radius: 10px;
+            width: 550px; /* Adjust the width to fit within the container */
+            height: 300px; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>GUARDCOMMS 1.3</h1>
+        <h2>KEEPING INTRUDERS AWAY SINCE 2012</h2>
+    </div>
+    <div class="container">
+        <div class="login-box">
+            <div class="login-image">
+                <img src="/images/comms.png" alt="Login Image">
+            </div>
+            <div class="login-form">
+                <h2>Login</h2>
+                <form>
+                    <!-- hi -->
+                    <input type="text" placeholder="Username" required>
+                    <input type="password" placeholder="Password" required>
+                    <button type="submit">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
