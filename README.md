@@ -1,1 +1,1 @@
-for an intruder map im working on
+For an intruder map I'm working on.
