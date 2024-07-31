@@ -4,6 +4,9 @@ Install brackets for the best experience with these.
 Brackets method : 
 Under file, use open folder, open the folder with guardcomms in it. 
 Use the live preview feature on the side and there. ![image](https://github.com/user-attachments/assets/cde7d2e4-462c-4d2d-9572-ee645575fe65)
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 Raw HTML method : 
 upload the images from the images folder to either an image sharing website or just discord, 
