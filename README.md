@@ -8,9 +8,13 @@ Use the live preview feature on the side and there. ![image](https://github.com/
 Raw HTML method : 
 upload the images from the images folder to either an image sharing website or just discord, 
 copy the media links and in every file refrencing an image, find and replace every 
+ <picture>
   "<img src="/images/agent.png" alt="Agent Profile Picture" width="50" height="50">"
+  </picture>
   or
+  <picture>
   "<img src="/images/comms.png" alt="Login Image">"
+  </picture>
 with 
   <img src="YOUR LINK HERE" alt="AGENT PROFILE PICTURE" width="50" height="50">
   or
