@@ -14,7 +14,6 @@ copy the media links and in every file refrencing an image, find and replace eve
 ```
   "<img src="/images/agent.png" alt="Agent Profile Picture" width="50" height="50">"
 ```
-  or
 ```
   "<img src="/images/comms.png" alt="Login Image">"
 ```
@@ -22,7 +21,6 @@ with
 ```
   <img src="YOUR LINK HERE" alt="AGENT PROFILE PICTURE" width="50" height="50">
 ```
-  or
   ```
   "<img src="YOUR LINK HERE" alt="Login Image">"
 ```
