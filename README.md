@@ -1,14 +1,15 @@
-For an intruder map I'm working on.
-Install brackets for the best experience with these.
+HTML pages made for textures for an Intruder map i'm working on.
 
-Brackets method : 
+**Install brackets for the best experience with these.**
+
+**Brackets method :** 
 Under file, use open folder, open the folder with guardcomms in it. 
 Use the live preview feature on the side and there. ![image](https://github.com/user-attachments/assets/cde7d2e4-462c-4d2d-9572-ee645575fe65)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Raw HTML method : 
+**Raw HTML method :** 
 upload the images from the images folder to either an image sharing website or just discord, 
 copy the media links and in every file refrencing an image, find and replace every 
 ```
