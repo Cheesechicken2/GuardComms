@@ -10,22 +10,8 @@ Use the live preview feature on the side and there. ![image](https://github.com/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-**Raw HTML method :** 
-upload the images from the images folder to either an image sharing website or just discord, 
-copy the media links and in every file refrencing an image, find and replace every 
-```
-  "<img src="/images/agent.png" alt="Agent Profile Picture" width="50" height="50">"
-```
-```
-  "<img src="/images/comms.png" alt="Login Image">"
-```
-with 
-```
-  <img src="YOUR LINK HERE" alt="AGENT PROFILE PICTURE" width="50" height="50">
-```
-  ```
-  "<img src="YOUR LINK HERE" alt="Login Image">"
-```
+**Raw HTML method :**
+Get the patch for it from releases.
 ---------------------------------------------------------------------------------------------------------------------------------------------
   this will make them properly display in browsers and not end up looking like this if youre just launching from file explorer:
 ![image](https://github.com/user-attachments/assets/0639f1b3-7033-4afc-8181-db1753995716)
