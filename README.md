@@ -1,5 +1,5 @@
-HTML pages made for textures for an Intruder map i'm working on.
+HTML pages I made for textures on an Intruder map I'm working on.
 
 ~~**Install brackets for the best experience with these.**~~
 
-Get the patch for it from releases.
+# **Get the patch for it from releases.**
